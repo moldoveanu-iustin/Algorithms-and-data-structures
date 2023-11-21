@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1698048889 source:c:\users\_tgw-\desktop\asd\laborator1_stiva_pb2\main.c
+	<stdio.h>
+	"stiva.h"
+
+1698047970 c:\users\_tgw-\desktop\asd\laborator1_stiva_pb2\stiva.c
+	"stiva.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1698047962 c:\users\_tgw-\desktop\asd\laborator1_stiva_pb2\stiva.h
+
+1698048957 source:c:\users\_tgw-\desktop\asd\laborator1_stiva_pb2\stiva.c
+	"stiva.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
