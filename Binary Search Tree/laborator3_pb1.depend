@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698482465 source:c:\users\_tgw-\desktop\asd\laborator3_pb1\arbore.c
+	<stdlib.h>
+	<stdio.h>
+	"arbore.h"
+
+1698431409 c:\users\_tgw-\desktop\asd\laborator3_pb1\arbore.h
+
+1699362983 source:c:\users\_tgw-\desktop\asd\laborator3_pb1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbore.h"
+
