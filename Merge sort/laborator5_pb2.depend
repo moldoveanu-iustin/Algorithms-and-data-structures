@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1699799865 source:c:\users\_tgw-\desktop\asd\laborator 5\laborator5_pb2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1699799925 c:\users\_tgw-\desktop\asd\laborator 5\laborator5_pb2\merge_sort.h
+
+1699806891 source:c:\users\_tgw-\desktop\asd\laborator 5\laborator5_pb2\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"merge_sort.h"
+
+1699799865 source:c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 5\laborator5_pb2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"merge_sort.h"
+
+1699799925 c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 5\laborator5_pb2\merge_sort.h
+
+1699806891 source:c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 5\laborator5_pb2\merge_sort.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"merge_sort.h"
+
