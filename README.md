@@ -25,4 +25,9 @@
    
   - [Lab4](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab4)
     - [Red-black tree](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab4/Red–black%20tree)
+   
+ - [Lab5](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab5)
+    - [Insertion sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab5/Insertion%20sort)
+    - [Merge sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab5/Merge%20sort)
+    - [Seletion sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab5/Selection%20sort)
 
