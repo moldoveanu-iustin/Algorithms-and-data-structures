@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698410411 source:c:\users\_tgw-\desktop\asd\laborator2_pb2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tabela_prin_inlantuire.h"
+
+1698408680 c:\users\_tgw-\desktop\asd\laborator2_pb2\tabela_prin_inlantuire.h
+
+1698410379 source:c:\users\_tgw-\desktop\asd\laborator2_pb2\tabela_prin_inlantuire.c
+	<stdio.h>
+	<stdlib.h>
+	"tabela_prin_inlantuire.h"
+
