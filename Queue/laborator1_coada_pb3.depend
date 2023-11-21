@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698048141 source:c:\users\_tgw-\desktop\asd\laborator1_coada_pb3\main.c
+	<stdio.h>
+	"coada.h"
+
+1698048141 c:\users\_tgw-\desktop\asd\laborator1_coada_pb3\coada.h
+
+1698049157 source:c:\users\_tgw-\desktop\asd\laborator1_coada_pb3\coada.c
+	"coada.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
