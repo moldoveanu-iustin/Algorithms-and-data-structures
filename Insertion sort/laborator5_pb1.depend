@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1699797777 source:c:\users\_tgw-\desktop\asd\laborator 5\laborator5_pb1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
+1699795002 c:\users\_tgw-\desktop\asd\laborator 5\laborator5_pb1\insertion_sort.c
+	<stdlib.h>
+	<stdio.h>
+
+1699797777 source:c:\users\_tgw-\desktop\asd\laborator 5\laborator5_pb1\insertion_sort.c
+	<stdlib.h>
+	<stdio.h>
+	"insertion_sort.h"
+
+1699797777 c:\users\_tgw-\desktop\asd\laborator 5\laborator5_pb1\insertion_sort.h
+
+1699797777 source:c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 5\laborator5_pb1\insertion_sort.c
+	<stdlib.h>
+	<stdio.h>
+	"insertion_sort.h"
+
+1699797777 c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 5\laborator5_pb1\insertion_sort.h
+
+1699797777 source:c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 5\laborator5_pb1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"insertion_sort.h"
+
