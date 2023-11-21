@@ -19,4 +19,7 @@
    
   - [Lab3](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab3)
     - [Binary Search Tree](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab3/Binary%20Search%20Tree)
+   
+  -[Lab4](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab4)
+    -[Red-black tree](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab4/Red–black%20tree))
 
