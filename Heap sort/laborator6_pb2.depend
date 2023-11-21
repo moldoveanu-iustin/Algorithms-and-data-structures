@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700238286 source:c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 6\laborator6_pb2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"heap_sort.h"
+
+1700238407 source:c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 6\laborator6_pb2\heap_sort.c
+	<stdlib.h>
+	<stdio.h>
+	"heap_sort.h"
+
+1700164309 c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 6\laborator6_pb2\heap_sort.h
+
