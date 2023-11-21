@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699815730 source:c:\users\_tgw-\desktop\asd\laborator 5\laborator5_pb3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
