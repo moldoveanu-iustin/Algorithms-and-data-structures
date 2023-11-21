@@ -16,4 +16,7 @@
   - [Lab2](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab2)
     - [Hashtable](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab2/Hashtable)
     - [Hashtable (array)](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab2/Hashtable%20(array))
+   
+  - [Lab3](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab3)
+    - [Binary Search Tree](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab3/Binary%20Search%20Tree)
 
