@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698318819 source:c:\users\_tgw-\desktop\asd\laborator1_lista_tema\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1698318573 c:\users\_tgw-\desktop\asd\laborator1_lista_tema\lista.h
+
+1698318584 source:c:\users\_tgw-\desktop\asd\laborator1_lista_tema\lista.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+
