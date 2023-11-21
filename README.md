@@ -12,4 +12,8 @@
     - [Queue](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab1/Queue)
     - [Simple linked list](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab1/Simple%20linked%20list)
     - [Stack](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab1/Stack)
+  
+  - [Lab2](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab2)
+    - [Hashtable](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab2/Hashtable)
+    - [Hashtable (array)](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab2/Hashtable%20(array))
 
