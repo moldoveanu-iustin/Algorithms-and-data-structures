@@ -29,7 +29,7 @@
  - [Lab5](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab5)
     - [Insertion sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab5/Insertion%20sort)
     - [Merge sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab5/Merge%20sort)
-    - [Seletion sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab5/Selection%20sort)
+    - [Selection sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab5/Selection%20sort)
 
  - [Lab6](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab6)
     - [Quick sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab6/Quick%20sort)
