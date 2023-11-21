@@ -31,3 +31,7 @@
     - [Merge sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab5/Merge%20sort)
     - [Seletion sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab5/Selection%20sort)
 
+ - [Lab6](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab6)
+    - [Quick sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab6/Quick%20sort)
+    - [Heap sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab6/Heap%20sort)
+
