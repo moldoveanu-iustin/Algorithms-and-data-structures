@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1697804628 source:c:\users\_tgw-\desktop\asd\laborator1_list1\list.c
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+
+1697804041 c:\users\_tgw-\desktop\asd\laborator1_list1\list.h
+
+1697805490 source:c:\users\_tgw-\desktop\asd\laborator1_list1\main.c
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+
+1697804628 c:\users\_tgw-\desktop\asd\laborator1_list1\list.c
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+
+1698402336 source:c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 1\laborator1_list1\list.c
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+
+1697800441 c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 1\laborator1_list1\list.h
+
+1697801890 source:c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 1\laborator1_list1\main.c
+	<stdlib.h>
+	<stdio.h>
+	"list.h"
+
