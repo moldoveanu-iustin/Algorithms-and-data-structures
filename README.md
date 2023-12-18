@@ -35,3 +35,7 @@
     - [Quick sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab6/Quick%20sort)
     - [Heap sort](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab6/Heap%20sort)
 
+- [Lab7](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab7)
+   - [Cut rod](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab7/Cut%20rod)
+   - [Matrix chain order](https://github.com/moldoveanu-iustin/Algorithms-and-data-structures/tree/Lab7/Matrix%20chain%20order)
+
