@@ -1,0 +1,8 @@
+#ifndef MATRIX-CHAIN-ORDER_H_INCLUDED
+#define MATRIX-CHAIN-ORDER_H_INCLUDED
+
+int s[9999][9999];
+void MATRIX_CHAIN_ORDER (int p[], int n);
+void PRINT_OPTIMAL_PARENS (int i, int j);
+
+#endif // MATRIX-CHAIN-ORDER_H_INCLUDED
