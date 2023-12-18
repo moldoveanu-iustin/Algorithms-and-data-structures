@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1701091046 source:c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 7\laborator7_pb1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cut_rod.h"
+
+1701018922 c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 7\laborator7_pb1\cut_rod.h
+
+1701091374 source:c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 7\laborator7_pb1\cut_rod.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"cut_rod.h"
+
