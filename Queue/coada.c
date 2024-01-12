@@ -23,8 +23,8 @@ void DEQUEUE(t_coada *Q)
 {
     int e = Q->data[Q->head];
     Q->length = Q->length - 1;
-    if(Q->head == Q->length-1)
-        Q->head = 0;
+    if(Q->head == Q->tail)
+        Q->head = 1;
     else Q->head = Q->head + 1;
 }
 
