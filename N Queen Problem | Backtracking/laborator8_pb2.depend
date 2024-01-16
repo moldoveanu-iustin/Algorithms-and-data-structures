@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1701856045 source:c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 8\laborator8_pb2\backtracking_8dame.c
+	<stdio.h>
+	<stdlib.h>
+	"backtracking_8dame.h"
+
+1701856493 c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 8\laborator8_pb2\backtracking_8dame.h
+
+1701856100 source:c:\users\_tgw-\desktop\facultate\an ii sem i - ie gr. 4\algoritmi si structuri de date\laborator 8\laborator8_pb2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"backtracking_8dame.h"
+
